@@ -1,6 +1,5 @@
 # Project / Season 3 EP 1 5.2 GxGaming Developers
 
-![GxGaming Season 3](https://i.imgur.com/sLe2v8C.jpeg)
 ![GxGaming Season 3](https://i.imgur.com/Y8f3bi5.jpeg)
 ![GxGaming Season 3](https://i.imgur.com/DPETqnN.jpeg)
 ![GxGaming Season 3](https://i.imgur.com/sLe2v8C.jpeg)
