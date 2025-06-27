@@ -68,8 +68,7 @@ Limite de 100 Usuários
 - ExperienceTable - Experiência Separada Diferenciada por Vip e por faixa de Reset / level
 - GameMaster Manager - Controle de GameMaster apenas pelo Arquivo de Configuração
 - Reset e GranReset - Sistema muito manipulável feito para atender a necessidade de vários administradores!
-- Jewel System - Sistema de novas jewels.
-- New Wings - Suporte a 50 Novas Wings (Id 12,100 a 12, 160)
+- Jewel System - Sistema de novas jewels
 - EventBags - Personalizadas para os Eventos BloodCastle, Chaos Castle, DevilSquare.
 - Money System - Configurações de Drop de Zen do Servidor.
 - Offtrade System - Sistema de personal store Offline.
@@ -77,7 +76,7 @@ Limite de 100 Usuários
 - Evento trade wins automático
 - Evento drop virtual automático
 - invasões automáticos e podendo criar as suas customizadas
-- 100 Wings liberadas
+
   :----------------------------------------------------------------------------------------------------
   : # Client
   :----------------------------------------------------------------------------------------------------
